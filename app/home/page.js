@@ -6,7 +6,7 @@ export default function HomePage() {
     <ProtectedRoute>
       <div style={{ padding: "2rem" }}>
         <h2>Welcome to the Home Page!</h2>
-        <p>This page is protected. You're logged in.</p>
+        <p>This page is protected. You&apos;re logged in.</p>
       </div>
     </ProtectedRoute>
   );
